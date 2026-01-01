@@ -1,0 +1,50 @@
+#+TITLE: SPLASH 2026 Conference Notes
+#+AUTHOR: aygp-dr
+#+DATE: 2026-01-01
+
+* SPLASH 2026
+
+Notes and potential presentation materials for SPLASH 2026 (ACM SIGPLAN conference on Systems, Programming, Languages, and Applications: Software for Humanity).
+
+** Conference Details
+
+- *Dates:* October 3-9, 2026
+- *Location:* Oakland, California
+- *Venue:* Oakland Marriott City Center
+- *Co-located with:* ISSTA 2026
+- *Website:* https://2026.splashcon.org/
+
+** Tracks
+
+- OOPSLA (Object-Oriented Programming, Systems, Languages, and Applications)
+- SPLASH Keynotes
+- SPLASH-E (Education Track)
+- Artifact Evaluation
+- Doctoral Symposium
+- Posters and Tool Demonstrations
+- Student Research Competition
+- Workshops
+
+** Important Deadlines
+
+| Date       | Event                                    |
+|------------+------------------------------------------|
+| 2026-01-10 | Workshop proposal submissions close      |
+| 2026-02-03 | OOPSLA revision round 1 deadline         |
+| 2026-02-05 | Artifact evaluation submissions due      |
+| 2026-02-17 | OOPSLA author notification for revisions |
+| 2026-02-27 | Camera-ready papers due (round 1)        |
+| 2026-03-16 | Artifact evaluation notifications        |
+
+** Notes
+
+/Notes and ideas go here/
+
+** Presentations
+
+/Potential presentation materials/
+
+** Resources
+
+- [[https://2026.splashcon.org/][SPLASH 2026 Official Website]]
+- [[https://www.sigplan.org/][ACM SIGPLAN]]
