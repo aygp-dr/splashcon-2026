@@ -2,6 +2,12 @@
 #+AUTHOR: aygp-dr
 #+DATE: 2026-01-01
 
+[[https://2026.splashcon.org/][https://img.shields.io/badge/SPLASH-2026-blue.svg]]
+[[https://2026.splashcon.org/][https://img.shields.io/badge/Date-Oct%203--9%2C%202026-green.svg]]
+[[https://goo.gl/maps/oakland][https://img.shields.io/badge/Location-Oakland%2C%20CA-orange.svg]]
+[[https://www.sigplan.org/][https://img.shields.io/badge/ACM-SIGPLAN-red.svg]]
+[[https://2026.splashcon.org/track/splash-2026-oopsla][https://img.shields.io/badge/Track-OOPSLA-purple.svg]]
+
 * SPLASH 2026
 
 Notes and potential presentation materials for SPLASH 2026 (ACM SIGPLAN conference on Systems, Programming, Languages, and Applications: Software for Humanity).
